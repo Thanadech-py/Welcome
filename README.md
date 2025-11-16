@@ -8,6 +8,9 @@
   
 - Participate in MakeX Challenge Competition 2024 Team: GravityShift
   - (Excelllent Presentation Award)
+ 
+- Participate in MakeX Challenge Competition 2025 Team: Fragile
+  - (Excelllent Presentation Award)
 
 - Participate in Thailand Open ROS Robotic Competition Team: Aufu Robotics
   
@@ -25,7 +28,7 @@
     - (Best in Class: Odstacles 🥇🥇)
     - (2nd Runner-Up 🥈🥈)
 
-- Participate in Thailand Open ROS and Smart Robotics Competition [Rapidly Manufacturing Robot Challenge] 
+- Participate in Thailand Open ROS and Smart Robotics Competition [Rapidly Manufacturing Robot Challenge]
     
 
 <h3 align="left"> Works and Research </h3>
@@ -33,6 +36,8 @@
 - [Arduino-Project](https://github.com/Thanadech-py/Arduino-Project)
 
 - [MakeX Chanllenge 2024 Team:GravityShift](https://github.com/Thanadech-py/MakeX-2024-GravityShift)
+
+- [MakeX Chanllenge 2025 Team:Fragile](https://github.com/Thanadech-py/MakeX-2025-Fagile)
 
 - [MakeX-Tutorials](https://github.com/Thanadech-py/MakeX-Tutorials)
 
