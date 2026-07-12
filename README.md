@@ -1,50 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thanadech Lapassirikul</h1>
-<h3 align="left">Experience</h3>
 
-- Participate in MakeX Challenge Competition 2023 Team: MakeStyleDieHard
-  
-- Participate in MakeX Challenge ACT Warm-Up Competition 2024 Team: หมีป๊อกๆ
-  
-- Participate in MakeX Challenge Competition 2024 Team: GravityShift
-  - (Excelllent Presentation Award)
- 
-- Participate in MakeX Challenge Competition 2025 Team: Fragile
-  - (Excelllent Presentation Award)
-
-- Participate in Thailand Open ROS Robotic Competition Team: Aufu Robotics
-  
-- Participate in Bangmod Hackaton 2024 Team: Hackgineer
-
-- Train in RAI Venture 2023 **As school representative 1 in 60
-  - (Online, Onsite)
-
-- Participate in CPU ASEAN GRAND PRIX YOUTH ROBOTICS & ESPORTS COMPETITION [In KTIS Gatering Robot]
-
-- Train in Robot AI and Coding (RAC)
-    - [Online Trained]
-
-- Participate in Beginner RMRC (Arduino Education Day 2024)
-    - (Best in Class: Odstacles 🥇🥇)
-    - (2nd Runner-Up 🥈🥈)
-
-- Participate in Thailand Open ROS and Smart Robotics Competition [Rapidly Manufacturing Robot Challenge]
-    
-
-<h3 align="left"> Works and Research </h3>
-
-- [Arduino-Project](https://github.com/Thanadech-py/Arduino-Project)
-
-- [MakeX Chanllenge 2024 Team:GravityShift](https://github.com/Thanadech-py/MakeX-2024-GravityShift)
-
-- [MakeX Chanllenge 2025 Team:Fragile](https://github.com/Thanadech-py/MakeX-2025-Fagile)
-
-- [MakeX-Tutorials](https://github.com/Thanadech-py/MakeX-Tutorials)
-
-- [Warehouse-website (School Project)](https://github.com/Thanadech-py/Warehouse-website)
-
-
-
-
+A 1'st year engineering student in the robotics field, if you have anything to talk or advise me, please contact me.
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
